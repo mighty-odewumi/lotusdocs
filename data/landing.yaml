@@ -25,16 +25,15 @@ hero:
   cta3Button:
     icon: email
     btnText: Email
-    url: ux@pixelbendr.com
+    url: mailto:ux@pixelbendr.com
   cta2Button:
     icon: call
     btnText: Telephone
-    url: tel:+2348120997044
+    url: 
   ctaButton:
     icon: link
     btnText: LinkedIn
     url: https://linkedin.com/in/pixelwiz
-
   info: '**Product Design** and UX'
 featureGrid:
   enable: true
