@@ -33,6 +33,7 @@ hero:
   cta2Button:
     icon: call
     btnText: Telephone
+    url: tel:561-247-3146
   info: '**Product Design** and UX'
 featureGrid:
   enable: true
@@ -42,54 +43,28 @@ featureGrid:
   subtitle: >-
     Roman shapes the way people use and experience technology to interact with the world today and in the future with a huge passion for intuitive user experiences.
   items:
-    - title: Fast
+    - title: Passionate Designer
       icon: speed
       description: >-
-        4 x 100's score on Google Lighthouse by default. Lotus Docs removes
-        unused CSS, prefetches asset links, and lazy loads content images.
-    - title: SEO Friendly
-      icon: trending_up
+        Extremely passionate about UX and Product Design.
+    - title: UI/UX Guru
+      icon: social_leaderboard
       description: >-
-        Data is automatically structured to be SEO friendly. Includes Meta tags,
-        Opengraph, and Twitter cards. Choose the settings that best suit you.
-    - title: Secure by default
-      icon: lock
+        18+ years of User Interaction Experience.
+    - title: Engineering Lead
+      icon: integration_instructions
       description: >-
-        Lotus Docs' default configuration scores A+ on Mozilla Observatory. You
-        can update the default Security Headers to suit your requirements.
+        15+ years of leading web-based software engineering and Agile/Scrum development.
     - title: Optional Features
       icon: settings
       description: >-
         Many Lotus Docs features are configurable via optional parameters.
         Require DocSearch for your site? Then enable it via a single setting.
-    - title: Deploy to Vercel
-      icon: change_history
+    - title: Team Lead
+      icon: supervised_user_circle
       description: >-
-        Deploy to Vercel in seconds. Vercel Functions, Vercel
-        Redirects/Rewrites, and Vercel Headers are all configurable for an
-        enriched experience.
-    - title: Dark Mode
-      icon: dark_mode
-      description: >-
-        Prefer not to be blasted by the sun while reading? Switch to a low-light
-        UI with the click of a button. Modify colour variables to match your
-        branding.
-    - title: Search by DocSearch
-      icon: search
-      description: >-
-        Search your docs with DocSearch. A powerful, efficient and accessible
-        search solution built on Algolia Crawler & Autocomplete.
-    - title: Multilingual Support
-      icon: translate
-      description: >-
-        Lotus Docs supports Hugo's Multilingual Mode. Create documentation in
-        multiple languages side by side with i18n support.
-    - title: Bootstrap v5
-      icon: palette
-      description: >-
-        Built on Bootstrap 5, Lotus Docs allows for a familiar, flexible, and
-        intuitive developer experience. Easily customise your site via SCSS
-        variables and files.
+        3 years of managing a team of remote UI designers and mentoring a team of Product Managers.
+   
 imageCompare:
   enable: true
   weight: 30
