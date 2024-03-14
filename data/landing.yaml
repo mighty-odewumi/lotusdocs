@@ -28,7 +28,7 @@ hero:
     url: ux@pixelbendr.com
   cta2Button:
     icon: LinkedIn
-    btnText: 'LinkedIn'
+    btnText: LinkedIn
     url: https://linkedIn.com/in/pixelwiz
   info: '**Product Design** and UX'
 featureGrid:
