@@ -19,18 +19,18 @@ hero:
   image:
     path: /uploads/img-20240313-wa0039-1.jpg
     filename: img-20240313-wa0039-1.jpg
-    alt: Roman Smolkn
+    alt: Roman Smolkin
     boxShadow: true
     rounded: true
   ctaButton:
     icon: email
-    btnText: Get in Touch
+    btnText: Email
     url: mailto:ux@pixelbendr.com
   cta2Button:
     icon: LinkedIn
-    btnText: 'Contact on LinkedIn '
-    url: LinkedIn.com/in/pixelwiz
-  info: '**Product Design** '
+    btnText: 'LinkedIn '
+    url: https://linkedIn.com/in/pixelwiz
+  info: '**Product Design** and '
 featureGrid:
   enable: true
   weight: 20
