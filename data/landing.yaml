@@ -17,8 +17,8 @@ hero:
     A **UI/UX designer with 18+ years** crafting innovative **User Experience
     Designs**.
   image:
-    path: /uploads/img-20240313-wa0039-1.jpg
-    filename: img-20240313-wa0039-1.jpg
+    path: images
+    filename: roman-smolkin.jpg
     alt: Roman Smolkin
     boxShadow: true
     rounded: true
