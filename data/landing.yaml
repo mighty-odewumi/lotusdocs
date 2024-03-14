@@ -29,11 +29,12 @@ hero:
   cta2Button:
     icon: call
     btnText: Telephone
-    url: tel:561-247-3146
+    url: tel:+2348120997044
   cta3Button:
     icon: link
     btnText: LinkedIn
-    url: https://linkedin.com/in/pi
+    url: https://linkedin.com/in/pixelwiz
+
   info: '**Product Design** and UX'
 featureGrid:
   enable: true
