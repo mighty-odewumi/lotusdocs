@@ -22,7 +22,7 @@ hero:
     alt: Roman Smolkin
     boxShadow: true
     rounded: true
-  ctaButton:
+  cta3Button:
     icon: email
     btnText: Email
     url: ux@pixelbendr.com
@@ -30,7 +30,7 @@ hero:
     icon: call
     btnText: Telephone
     url: tel:+2348120997044
-  cta3Button:
+  ctaButton:
     icon: link
     btnText: LinkedIn
     url: https://linkedin.com/in/pixelwiz
