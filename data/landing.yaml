@@ -10,11 +10,11 @@ hero:
   badge:
     text: UI/UX
     color: primary
-    pill: true
+    pill: false
     soft: true
   title: Roman Smolkin
   subtitle: >-
-    A **UI/UX designer with 18+ years** crafting innovative **User Experience
+    A **UI/UX designer with 18+ years** of crafting innovative **User Experience
     Designs**.
   image:
     path: images
@@ -27,19 +27,20 @@ hero:
     btnText: Email
     url: ux@pixelbendr.com
   cta2Button:
-    icon: LinkedIn
+    icon: link
     btnText: LinkedIn
     url: https://linkedIn.com/in/pixelwiz
+  cta3Button:
+    icon: call
+    btnText: Telephone
   info: '**Product Design** and UX'
 featureGrid:
   enable: true
   weight: 20
   template: feature grid
-  title: Why choose Lotus Docs?
+  title: Why Hire Roman?
   subtitle: >-
-    Lotus Docs is a highly configurable Hugo documentation theme. Yet, with the
-    default configuration you can deploy and publish your documentation site in
-    a matter of minutes. Check out some core features below.
+    Roman shapes the way people use and experience technology to interact with the world today and in the future with a huge passion for intuitive user experiences.
   items:
     - title: Fast
       icon: speed
