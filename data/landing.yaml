@@ -30,6 +30,10 @@ hero:
     icon: call
     btnText: Telephone
     url: tel:561-247-3146
+  cta3Button:
+    icon: link
+    btnText: LinkedIn
+    url: https://linkedin.com/in/pi
   info: '**Product Design** and UX'
 featureGrid:
   enable: true
