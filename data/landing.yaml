@@ -35,6 +35,8 @@ hero:
     btnText: Telephone
     url: tel:561-247-3146
   info: '**Product Design** and UX'
+
+
 featureGrid:
   enable: true
   weight: 20
@@ -64,13 +66,11 @@ imageCompare:
   enable: true
   weight: 30
   template: image compare
-  title: 
+  title: My Projects
   subtitle: >-
-    Much of Lotus Docs' appearance can be customised. Dark mode is optional
-    (enabled by default) and you can choose a Google font that suites you via
-    the config parameters.
+    Check out some of the works I have worked on in the course of my career.
   items:
-    - title: Dark Mode
+    - title: Project 1
       config:
         startingPoint: 50
         addCircle: true
@@ -83,7 +83,7 @@ imageCompare:
       imagePath: images/screenshots
       imageBefore: lotusdocs_dark_v0.8.webp
       imageAfter: lotusdocs_light_v0.8.webp
-    - title: Custom Fonts
+    - title: Project 2
       config:
         controlColor: '#3C4257'
         startingPoint: 25
@@ -97,7 +97,7 @@ imageCompare:
       imagePath: images/screenshots
       imageBefore: lotusdocs_google_font_demo_inter_screenshot.webp
       imageAfter: lotusdocs_google_font_demo_lifesavers_screenshot.webp
-    - title: Accent Color
+    - title: Project 3
       config:
         startingPoint: 25
         addCircle: true
