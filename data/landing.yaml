@@ -25,7 +25,7 @@ hero:
   ctaButton:
     icon: email
     btnText: Email
-    url: mailTo:ux@pixelbendr.com
+    url: ux@pixelbendr.com
   cta2Button:
     icon: LinkedIn
     btnText: 'LinkedIn'
