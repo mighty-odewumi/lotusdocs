@@ -62,7 +62,7 @@ featureGrid:
         3 years of managing a team of remote UI designers and mentoring a team
         of Product Managers.
 imageCompare:
-  enable: true
+  enable: false
   weight: 30
   template: image compare
   title: My Projects
