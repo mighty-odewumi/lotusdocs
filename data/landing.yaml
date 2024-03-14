@@ -8,7 +8,7 @@ hero:
       desktop: gradient-desktop.webp
       mobile: gradient-mobile.webp
   badge:
-    text: UI
+    text: UI/UX
     color: '#000000'
     pill: false
     soft: true
