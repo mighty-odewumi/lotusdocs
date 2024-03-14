@@ -9,8 +9,8 @@ hero:
       mobile: gradient-mobile.webp
   badge:
     text: UI/UX
-    color: '#000000'
-    pill: false
+    color: '#a131da'
+    pill: true
     soft: true
   title: Roman Smolkin
   subtitle: >-
@@ -18,19 +18,19 @@ hero:
     Designs**.
   image:
     path: /uploads/img-20240313-wa0039-1.jpg
-    filename: roman-smolkin.jpg
+    filename: img-20240313-wa0039-1.jpg
     alt: Roman Smolkn
     boxShadow: true
     rounded: true
   ctaButton:
-    icon: rocket_launch
-    btnText: Get Started
-    url: /docs/quickstart/#create-a-new-lotus-docs-site
+    icon: email
+    btnText: Get in Touch
+    url: mailto:ux@pixelbendr.com
   cta2Button:
-    icon: construction
-    btnText: In Development
-    url: https://github.com/colinwilson/lotusdocs
-  info: '**UI/UX Designer** '
+    icon: LinkedIn
+    btnText: 'Contact on LinkedIn '
+    url: LinkedIn.com/in/pixelwiz
+  info: '**Product Design** '
 featureGrid:
   enable: true
   weight: 20
