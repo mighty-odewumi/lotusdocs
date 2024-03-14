@@ -27,48 +27,42 @@ hero:
     btnText: Email
     url: ux@pixelbendr.com
   cta2Button:
-    icon: link
-    btnText: LinkedIn
-    url: https://linkedIn.com/in/pixelwiz
-  cta2Button:
     icon: call
     btnText: Telephone
     url: tel:561-247-3146
   info: '**Product Design** and UX'
-
-
 featureGrid:
   enable: true
   weight: 20
   template: feature grid
   title: Why Hire Roman?
   subtitle: >-
-    Roman shapes the way people use and experience technology to interact with the world today and in the future with a huge passion for intuitive user experiences.
+    Roman shapes the way people use and experience technology to interact with
+    the world today and in the future with a huge passion for intuitive user
+    experiences.
   items:
     - title: Passionate Designer
       icon: sentiment_excited
-      description: >-
-        Extremely passionate about UX and Product Design.
+      description: Extremely passionate about UX and Product Design.
     - title: UI/UX Guru
       icon: social_leaderboard
-      description: >-
-        18+ years of User Interaction Experience.
+      description: 18+ years of User Interaction Experience.
     - title: Engineering Lead
       icon: integration_instructions
       description: >-
-        15+ years of leading web-based software engineering and Agile/Scrum development.
+        15+ years of leading web-based software engineering and Agile/Scrum
+        development.
     - title: Mentor
       icon: supervised_user_circle
       description: >-
-        3 years of managing a team of remote UI designers and mentoring a team of Product Managers.
-   
+        3 years of managing a team of remote UI designers and mentoring a team
+        of Product Managers.
 imageCompare:
   enable: true
   weight: 30
   template: image compare
   title: My Projects
-  subtitle: >-
-    Check out some of the works I have worked on in the course of my career.
+  subtitle: Check out some of the works I have worked on in the course of my career.
   items:
     - title: Project 1
       config:
