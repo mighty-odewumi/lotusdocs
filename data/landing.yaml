@@ -30,7 +30,7 @@ hero:
     icon: link
     btnText: LinkedIn
     url: https://linkedIn.com/in/pixelwiz
-  cta3Button:
+  cta2Button:
     icon: call
     btnText: Telephone
   info: '**Product Design** and UX'
