@@ -9,9 +9,9 @@ hero:
       mobile: gradient-mobile.webp
   badge:
     text: UI/UX
-    color: '#a131da'
+    color: primary
     pill: true
-    soft: false
+    soft: true
   title: Roman Smolkin
   subtitle: >-
     A **UI/UX designer with 18+ years** crafting innovative **User Experience
@@ -28,7 +28,7 @@ hero:
     url: mailto:ux@pixelbendr.com
   cta2Button:
     icon: LinkedIn
-    btnText: 'LinkedIn '
+    btnText: 'LinkedIn'
     url: https://linkedIn.com/in/pixelwiz
   info: '**Product Design** and UX'
 featureGrid:
