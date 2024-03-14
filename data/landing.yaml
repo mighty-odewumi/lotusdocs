@@ -29,7 +29,7 @@ hero:
   cta2Button:
     icon: call
     btnText: Telephone
-    url: 
+    url:
   ctaButton:
     icon: link
     btnText: LinkedIn
