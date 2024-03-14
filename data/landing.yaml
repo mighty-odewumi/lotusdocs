@@ -8,8 +8,8 @@ hero:
       desktop: gradient-desktop.webp
       mobile: gradient-mobile.webp
   badge:
-    text: v0.1.0
-    color: primary
+    text: UI
+    color: '#000000'
     pill: false
     soft: true
   title: Roman Smolkin
