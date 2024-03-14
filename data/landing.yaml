@@ -11,7 +11,7 @@ hero:
     text: UI/UX
     color: '#a131da'
     pill: true
-    soft: true
+    soft: false
   title: Roman Smolkin
   subtitle: >-
     A **UI/UX designer with 18+ years** crafting innovative **User Experience
@@ -30,7 +30,7 @@ hero:
     icon: LinkedIn
     btnText: 'LinkedIn '
     url: https://linkedIn.com/in/pixelwiz
-  info: '**Product Design** and '
+  info: '**Product Design** and UX'
 featureGrid:
   enable: true
   weight: 20
