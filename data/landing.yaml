@@ -30,7 +30,7 @@ hero:
     icon: construction
     btnText: In Development
     url: https://github.com/colinwilson/lotusdocs
-  info: '**Open Source** MIT Licensed.'
+  info: '**UI/UX Designer** '
 featureGrid:
   enable: true
   weight: 20
