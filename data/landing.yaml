@@ -64,7 +64,7 @@ imageCompare:
   enable: true
   weight: 30
   template: image compare
-  title: Customise The Lotus Docs Appearance
+  title: 
   subtitle: >-
     Much of Lotus Docs' appearance can be customised. Dark mode is optional
     (enabled by default) and you can choose a Google font that suites you via
