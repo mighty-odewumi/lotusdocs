@@ -44,7 +44,7 @@ featureGrid:
     Roman shapes the way people use and experience technology to interact with the world today and in the future with a huge passion for intuitive user experiences.
   items:
     - title: Passionate Designer
-      icon: speed
+      icon: sentiment_excited
       description: >-
         Extremely passionate about UX and Product Design.
     - title: UI/UX Guru
@@ -55,12 +55,7 @@ featureGrid:
       icon: integration_instructions
       description: >-
         15+ years of leading web-based software engineering and Agile/Scrum development.
-    - title: Optional Features
-      icon: settings
-      description: >-
-        Many Lotus Docs features are configurable via optional parameters.
-        Require DocSearch for your site? Then enable it via a single setting.
-    - title: Team Lead
+    - title: Mentor
       icon: supervised_user_circle
       description: >-
         3 years of managing a team of remote UI designers and mentoring a team of Product Managers.
